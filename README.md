@@ -7,4 +7,4 @@ Creating a race 🏁 between 5 turtles 🐢 that move at a random speed ⌛ in P
 - States
 
 ## Example of the code:
-- Insert GIF!!
+![turtle_racing](turtle_racing.gif)
